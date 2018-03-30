@@ -1,0 +1,7 @@
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\bin\Debug\Table.dll
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\bin\Debug\Table.pdb
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\bin\Debug\EPPlus.dll
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\bin\Debug\EPPlus.xml
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\obj\Debug\Table.dll
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\obj\Debug\Table.pdb
+C:\Joylson\Escola\Analise de sistema\Analise socioeconomica\Projeto\Nova pasta\Table\Table\obj\Debug\Table.csprojResolveAssemblyReference.cache
